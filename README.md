@@ -48,6 +48,7 @@
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
+
 ###
 
 <div align="center">
@@ -58,9 +59,9 @@
 
 ###
 
-- 🔭 I’m crafting Web3 innovations like Athena SearchGPT using Next.js, Solidity, and Thirdweb.
-- 🌱 I’m mastering Zero-Knowledge Proofs and cross-chain tech with Rust and Go.
-- 👯 I’m eager to team up on MERN projects with React.js, Node.js, and AWS.
+- 🔭 I’m crafting Web3 innovations like Athena SearchGPT with Next.js, Solidity, and Thirdweb.
+- 🌱 I’m mastering Zero-Knowledge Proofs and cross-chain tech using Rust and Go.
+- 👯 I’m eager to collaborate on MERN projects with React.js, Node.js, and AWS.
 - 💬 Hit me up about smart contracts, Stripe integrations, or DynamoDB!
 - 📫 Connect with me at [muzkm123@gmail.com](mailto:muzkm123@gmail.com) or [linkedin.com/in/muzammil-ahmad](https://linkedin.com/in/muzammil-ahmad).
 - 😄 Pronouns: He/Him.
