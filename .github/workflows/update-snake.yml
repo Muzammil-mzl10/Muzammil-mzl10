@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Ensure write permissions
+          token: ${{ secrets.GITHUB_TOKEN }} # Enables write permissions
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -21,7 +21,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=green&color_dots=#e6f3ff,#c0e0ff,#99ccff,#66b3ff,#3399ff
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit and push changes
         run: |
