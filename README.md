@@ -63,6 +63,6 @@
 - 🌱 I’m mastering Zero-Knowledge Proofs and cross-chain tech using Rust and Go.
 - 👯 I’m eager to collaborate on MERN projects with React.js, Node.js, and AWS.
 - 💬 Hit me up about smart contracts, Stripe integrations, or DynamoDB!
-- 📫 Connect with me at [muzkm123@gmail.com](mailto:muzkm123@gmail.com) or [linkedin.com/in/muzammil-ahmad](https://linkedin.com/in/muzammil-ahmad).
+- 📫 Connect with me at [muzkm123@gmail.com](mailto:malikmzl123@gmail.com) or [linkedin.com/in/muzammil-dev](https://www.linkedin.com/in/muzammil-dev/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I thrive on vibe coding to crack tough tech challenges!
