@@ -24,17 +24,25 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const muzammil = {
-  role:     "Full-Stack & Web3 Engineer",
-  building: "Athena SearchGPT — AI-powered Web3 search",
-  learning: ["Zero-Knowledge Proofs", "Cross-chain tech", "Rust", "Go"],
-  stack:    ["Next.js", "TypeScript", "NestJS", "Solidity", "AWS"],
-  collab:   "Open to MERN, Web3, and AI-powered projects",
-  contact:  "malikmzl123@gmail.com",
-  funFact:  "I vibe-code my way through hard problems 🎧",
-};
-```
+<table>
+  <tr>
+    <td width="55%">
+      <p>I'm a <strong>Full-Stack & Web3 Engineer</strong> who loves working at the intersection of AI and decentralized technology. I care deeply about clean architecture, developer experience, and shipping products that actually matter.</p>
+      <p>Currently building <strong>Athena SearchGPT</strong> — an AI-powered search engine for the Web3 ecosystem, combining Next.js, Solidity, and Thirdweb into one seamless product.</p>
+      <p>When I'm not deep in code, I'm learning new protocols, contributing to open-source, or vibing through hard problems with music on 🎧</p>
+    </td>
+    <td width="45%">
+      <table>
+        <tr><td>🔭 <strong>Building</strong></td><td>Athena SearchGPT</td></tr>
+        <tr><td>🧠 <strong>Learning</strong></td><td>ZK Proofs · Cross-chain · Rust · Go</td></tr>
+        <tr><td>🤝 <strong>Open to</strong></td><td>MERN, Web3 & AI collabs</td></tr>
+        <tr><td>💬 <strong>Ask me about</strong></td><td>Smart contracts · Stripe · DynamoDB</td></tr>
+        <tr><td>📫 <strong>Reach me</strong></td><td><a href="mailto:malikmzl123@gmail.com">malikmzl123@gmail.com</a></td></tr>
+        <tr><td>⚡ <strong>Fun fact</strong></td><td>Music on = bugs off</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
