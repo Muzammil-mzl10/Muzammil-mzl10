@@ -1,93 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Muzammil;Full-Stack+%26+Web3+Engineer;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <em>Full-Stack Engineer obsessed with Web3, Zero-Knowledge Proofs, and shipping things that matter. <br/>
-  Currently building at the intersection of AI and decentralized tech.</em>
-</p>
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" title="Next.js" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook" title="Storybook" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" title="GraphQL" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" title="Go" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust" title="Rust" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" title="NestJS" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" title="AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Muzammil;Full-Stack+%26+Web3+Engineer;Building+at+the+edge+of+AI+%26+Web3." alt="Typing SVG" />
 </div>
 
----
-
-### 🌐 Find Me Online
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muzammil-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
   <a href="https://x.com/muzammil_builds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter+%2F+X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter / X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
   </a>
   &nbsp;
   <a href="mailto:malikmzl123@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </div>
 
----
-
-### 🚀 What I'm Up To
-
-- 🔭 &nbsp;Building **Athena SearchGPT** — a Web3-native AI search engine powered by Next.js, Solidity & Thirdweb
-- 🧠 &nbsp;Deep-diving into **Zero-Knowledge Proofs** and cross-chain interoperability with Rust & Go
-- 🤝 &nbsp;Open to collaborating on full-stack MERN projects, especially where React + AWS meet real-world scale
-- 💬 &nbsp;Ask me about **smart contracts**, **Stripe integrations**, or **DynamoDB** — happy to geek out
-- ⚡ &nbsp;Fun fact: I vibe-code my way through hard problems — music on, bug count down
-- 😄 &nbsp;He/Him &nbsp;|&nbsp; 📬 [malikmzl123@gmail.com](mailto:malikmzl123@gmail.com)
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+```ts
+const muzammil = {
+  role:     "Full-Stack & Web3 Engineer",
+  building: "Athena SearchGPT — AI-powered Web3 search",
+  learning: ["Zero-Knowledge Proofs", "Cross-chain tech", "Rust", "Go"],
+  stack:    ["Next.js", "TypeScript", "NestJS", "Solidity", "AWS"],
+  collab:   "Open to MERN, Web3, and AI-powered projects",
+  contact:  "malikmzl123@gmail.com",
+  funFact:  "I vibe-code my way through hard problems 🎧",
+};
+```
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muzammil-mzl10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Muzammil-mzl10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="GitHub Trophies" />
+
+**Frontend**
+
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,storybook" height="48" />
+
+**Backend & Systems**
+
+  <img src="https://skillicons.dev/icons?i=nestjs,py,go,rust" height="48" />
+
+**Cloud & Tools**
+
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="48" />
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github contribution snake" src="dist/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-mzl10&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-mzl10&layout=compact&theme=dracula&hide_border=false&border_radius=8&langs_count=8" height="170" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Muzammil-mzl10&theme=dracula&hide_border=false&border_radius=8&mode=daily" height="170" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🎧 Recently Played on Spotify
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github contribution snake" src="dist/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🎧 What's Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ly4mo473dogfziujntqmcike64">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ly4mo473dogfziujntqmcike64&count=5&unique=true" alt="Spotify recently played" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muzammil-mzl10&style=for-the-badge&color=A855F7" alt="Profile Views" />
 </div>
