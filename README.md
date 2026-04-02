@@ -33,10 +33,10 @@
     </td>
     <td width="45%">
       <table>
-        <tr><td>🔭 <strong>Building</strong></td><td>Athena SearchGPT</td></tr>
+        <tr><td>🔭 <strong>Building</strong></td><td>Web3 MVPs</td></tr>
         <tr><td>🧠 <strong>Learning</strong></td><td>ZK Proofs · Cross-chain · Rust · Go</td></tr>
         <tr><td>🤝 <strong>Open to</strong></td><td>MERN, Web3 & AI collabs</td></tr>
-        <tr><td>💬 <strong>Ask me about</strong></td><td>Smart contracts · Stripe · DynamoDB</td></tr>
+        <tr><td>💬 <strong>Ask me about</strong></td><td>Smart contracts · DeFi · AWS</td></tr>
         <tr><td>📫 <strong>Reach me</strong></td><td><a href="mailto:malikmzl123@gmail.com">malikmzl123@gmail.com</a></td></tr>
         <tr><td>⚡ <strong>Fun fact</strong></td><td>Music on = bugs off</td></tr>
       </table>
@@ -46,17 +46,31 @@
 
 ---
 
+<div align="center">
+
 ## 🛠 Tech Stack
 
-<div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,storybook" height="48" />
-  <br/><br/>
-  <p><strong>Backend & Systems</strong></p>
-  <img src="https://skillicons.dev/icons?i=nestjs,py,go,rust" height="48" />
-  <br/><br/>
-  <p><strong>Cloud & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="48" />
+<table>
+  <tr>
+    <td align="center" width="120"><strong>Frontend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,storybook" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs,py,go,rust" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & Tools</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="42" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
